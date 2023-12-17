@@ -28,7 +28,7 @@ The analysis focused on:
 
 The repository contains all code and output to replicate the analysis described in the homework.
 
-## Authors
+## Authors - Group #8
 
 - Alessandra Colaiocco
 - Gloria Kim
