@@ -13,7 +13,8 @@ The repository contains the following key files and folders:
   - `dataset_user.csv`: csv file that contains the dataset after feature engineering
   - `dataset_user_pca.csv`: csv file that contains the dataset after performing the dimensionality reduction
   
-- `CommandLine.sh`: Bash script containing solution for command line question 
+- `CommandLine.sh`: Bash script containing solution for command line question
+- `CommandLine_screenshot.png`: Screenshoet attesting the result of the Bash script for command line question
 
 ## Analysis Summary
 
